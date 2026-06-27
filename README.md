@@ -34,5 +34,3 @@ Building firmware for ESP32, STM32, and 8051 microcontrollers. Exploring VLSI de
 
 ---
 
-### 📊 GitHub Stats
-[![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdmohale30&show_icons=true&theme=dark)](https://github.com/sdmohale30)
