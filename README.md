@@ -7,12 +7,12 @@ Building firmware for ESP32, STM32, and 8051 microcontrollers. Exploring VLSI de
 ---
 
 ### 🛠️ Tech Stack
-* **Microcontrollers** • ESP32 • STM32 • 8051 • AVR • Arduino
+* **Microcontrollers** • ESP32 • STM32 • 8051 • Arduino
 * **Languages** • Embedded C • C++ • Verilog • VHDL • Python • C
-* **Protocols** • UART • I2C • SPI • MQTT • Bluetooth
+* **Protocols** • UART • I2C • SPI 
 * **Peripherals** • GPIO • ADC/DAC • PWM • Timers • Interrupts
 * **Tools** • Proteus • Keil uVision • MATLAB • Wokwi • Oscilloscope
-* **Design** • Signal conditioning • PID control • FSM • LittleFS • PCB inspection
+* **Design** • Signal conditioning • PID control • FSM 
 
 ---
 
@@ -20,11 +20,11 @@ Building firmware for ESP32, STM32, and 8051 microcontrollers. Exploring VLSI de
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [PID Line Follower Robot](./pid-line-follower-robot) | Closed-loop PID on 8-sensor array, BT OTA tuning | ESP32 • Embedded C • PWM |
-| [Ultra-Low-Power Sensor Logger](./ultra-low-power-sensor-logger) | 22µA avg current • 5+ yr battery life | ESP32 • LittleFS • RTC |
-| [IoT Water Quality Monitor](./iot-water-quality-monitor) | Multi-sensor front-end, 3rd-order polynomial cal | ESP32 • MQTT • TDS sensor |
-| [Smart Home Automation](./smart-home-automation-esp32) | FSM firmware, non-blocking I/O, hysteresis control | ESP32 • DHT22 • Relays |
-| [RFID Library System](./rfid-library-management) | RFID auth, Proteus validated, access control logic | Arduino • RC522 • C |
+| PID Line Follower Robot | Closed-loop PID on 8-sensor array, BT OTA tuning | ESP32 • Embedded C • PWM |
+| Ultra-Low-Power Sensor Logger| 22µA avg current • 5+ yr battery life | ESP32 • LittleFS • RTC |
+| IoT Water Quality Monitor| Multi-sensor front-end, 3rd-order polynomial cal | ESP32 • MQTT • TDS sensor |
+| Smart Home Automation | FSM firmware, non-blocking I/O, hysteresis control | ESP32 • DHT22 • Relays |
+| RFID Library System | RFID auth, Proteus validated, access control logic | Arduino • RC522 • C |
 
 ---
 
